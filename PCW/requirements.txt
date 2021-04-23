@@ -1,0 +1,11 @@
+django
+djongo
+channels
+django-cors-headers
+djangorestframework
+django-rest-auth
+djangorestframework-jwt
+Pillow
+PyJWT
+pytz
+six
